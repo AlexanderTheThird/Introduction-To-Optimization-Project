@@ -70,11 +70,10 @@ Total remaining load:
 
 The full mathematical formulation is provided in the project report. In summary, the model uses Goal Programming to assign remaining marking hours to eligible TAs.
 
-The model has three goals:
+The model has wo goals:
 
-1. Meet remaining course demand.
-2. Minimize deviation from the average TA workload.
-3. Minimize total relative pay cost, where secondary markers are paid at 1.3 times the normal rate.
+1. Minimize deviation from the average TA workload.
+2. Minimize total relative pay cost, where secondary markers are paid at 1.3 times the normal rate.
 
 The main decision variable is:
 
