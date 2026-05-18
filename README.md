@@ -1,4 +1,11 @@
 # Introduction-To-Optimization-Project
+## Author
+Joshua Hannays, 500001534; UWI Five Islands
+
+## Academic Integrity Statement
+
+This repository was created as part of a university optimization course project. The code and report are intended to demonstrate the formulation, implementation, and interpretation of a Goal Programming model for TA marking workload allocation.
+
 ## Project Overview
 
 This project presents a Goal Programming optimization model for fairly distributing the remaining final examination marking workload among Teaching Assistants (TAs). The problem arises when different courses have different class sizes and marking requirements, causing some TAs to receive significantly more marking work than others.
@@ -57,3 +64,30 @@ Total remaining load:
 
 ```text
 454 hours
+```
+
+## Mathematical Model Summary
+
+The full mathematical formulation is provided in the project report. In summary, the model uses Goal Programming to assign remaining marking hours to eligible TAs.
+
+The model has three goals:
+
+1. Meet remaining course demand.
+2. Minimize deviation from the average TA workload.
+3. Minimize total relative pay cost, where secondary markers are paid at 1.3 times the normal rate.
+
+The main decision variable is:
+
+x[i,j] = number of marking hours assigned to TA i for course j
+
+## Limitations
+
+The main limitations of the model are:
+
+1. The spreadsheet does not provide individual TA availability limits.
+2. The model assumes the 1.3 rate represents a pay multiplier, not a marking speed multiplier.
+3. Marking hours are treated as divisible continuous values.
+4. The model does not consider TA preferences, scheduling conflicts, or marking quality.
+5. Fairness is measured only by deviation from average workload.
+
+A fuller discussion of these limitations is provided in the project report.
