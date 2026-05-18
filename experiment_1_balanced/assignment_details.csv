@@ -1,8 +1,14 @@
 Experiment,TA,Course,Hours Assigned,Eligibility Code,Marker Type,Pay Rate,Relative Cost
+experiment_1_balanced,A,C00,6.5,2,Secondary marker,1.3,8.45
 experiment_1_balanced,A,C01,11.583,1,Assigned TA,1.0,11.583
 experiment_1_balanced,A,C03,38.667,1,Assigned TA,1.0,38.667
 experiment_1_balanced,B,C01,56.75,1,Assigned TA,1.0,56.75
 experiment_1_balanced,C,C02,46.333,1,Assigned TA,1.0,46.333
+experiment_1_balanced,C,I1,4.667,2,Secondary marker,1.3,6.067
 experiment_1_balanced,D,C05,56.75,1,Assigned TA,1.0,56.75
-experiment_1_balanced,E,C00,31.0,1,Assigned TA,1.0,31.0
-experiment_1_balanced,E,I1,8.667,1,Assigned TA,1.0,8.667
+experiment_1_balanced,E,C04,56.75,2,Secondary marker,1.3,73.775
+experiment_1_balanced,F,C04,62.5,2,Secondary marker,1.3,81.25
+experiment_1_balanced,G,C04,56.75,2,Secondary marker,1.3,73.775
+experiment_1_balanced,H,C00,24.5,2,Secondary marker,1.3,31.85
+experiment_1_balanced,H,I1,4.0,2,Secondary marker,1.3,5.2
+experiment_1_balanced,H,C05,28.25,2,Secondary marker,1.3,36.725
