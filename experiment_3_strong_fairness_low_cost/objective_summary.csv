@@ -1,2 +1,0 @@
-Experiment,Description,Status,w1_Demand,w2_Fairness,w3_Cost,Objective Value,G2 Fairness Deviation Normalized,G3 Extra Cost Normalized,Fairness Deviation Raw,Total Pay Cost,Extra Pay Cost,Total Remaining Load,Total Assigned Hours,Average Load Per TA,Total Secondary Marker Hours,Min TA Workload,Max TA Workload,Workload Range
-experiment_3_strong_fairness_low_cost,Strong fairness emphasis with low cost concern,Optimal,0.4,0.55,0.05,0.040795,0.02533,0.537262,11.5,527.175,73.175,454.0,454.0,56.75,243.917,51.0,62.5,11.5
