@@ -2,7 +2,7 @@ import pulp as pl
 import pandas as pd
 import os
 
-# Fata from the Spreadsheet
+# Data from the Spreadsheet
 
 tas = ["A", "B", "C", "D", "E", "F", "G", "H"]
 
