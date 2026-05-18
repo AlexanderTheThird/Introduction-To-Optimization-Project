@@ -1,0 +1,9 @@
+Experiment,TA,Total Hours,Assigned TA Hours,Secondary Marker Hours,Average Target,Deviation from Average,Fair Above Average,Fair Below Average,Relative Pay Cost
+experiment_3_strong_fairness_low_cost,A,56.75,50.25,6.5,56.75,0.0,0,0.0,58.7
+experiment_3_strong_fairness_low_cost,B,56.75,56.75,0.0,56.75,0.0,0,0.0,56.75
+experiment_3_strong_fairness_low_cost,C,56.75,46.333,10.417,56.75,0.0,0,0.0,59.875
+experiment_3_strong_fairness_low_cost,D,56.75,56.75,0.0,56.75,0.0,0,0.0,56.75
+experiment_3_strong_fairness_low_cost,E,56.75,0.0,56.75,56.75,0.0,0,0.0,73.775
+experiment_3_strong_fairness_low_cost,F,56.75,0.0,56.75,56.75,0.0,0,0.0,73.775
+experiment_3_strong_fairness_low_cost,G,56.75,0.0,56.75,56.75,0.0,0,0.0,73.775
+experiment_3_strong_fairness_low_cost,H,51.0,0.0,51.0,56.75,5.75,0,5.75,66.3
