@@ -1,0 +1,9 @@
+Experiment,TA,Total Hours,Assigned TA Hours,Secondary Marker Hours,Average Target,Deviation from Average,Fair Above Average,Fair Below Average,Relative Pay Cost
+experiment_1_balanced,A,56.75,50.25,6.5,56.75,0.0,0.0,0.0,58.7
+experiment_1_balanced,B,56.75,56.75,0.0,56.75,0.0,0.0,0.0,56.75
+experiment_1_balanced,C,51.0,46.333,4.667,56.75,5.75,0.0,5.75,52.4
+experiment_1_balanced,D,56.75,56.75,0.0,56.75,0.0,0.0,0.0,56.75
+experiment_1_balanced,E,56.75,0.0,56.75,56.75,0.0,0.0,0.0,73.775
+experiment_1_balanced,F,62.5,0.0,62.5,56.75,5.75,5.75,0.0,81.25
+experiment_1_balanced,G,56.75,0.0,56.75,56.75,0.0,0.0,0.0,73.775
+experiment_1_balanced,H,56.75,0.0,56.75,56.75,0.0,0.0,0.0,73.775
